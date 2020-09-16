@@ -1,3 +1,12 @@
+- 環境を作るには?
+	- cd ikkaku
+	- yarn
+	- でおっけい！
+- storybookを起動するには?
+	- yarn storybook
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
