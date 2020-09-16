@@ -8,7 +8,8 @@
 - どうやって書けばいいの..!?
 	- 僕もわかんない
 	- ()[https://github.com/IrukNuj/ikkaku/tree/master/src] を参考に書いていきましょう
-
+- デプロイ先は？
+	- https://awesome-villani-1a16e0.netlify.app/
 
 ## Available Scripts
 
