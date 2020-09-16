@@ -1,0 +1,2 @@
+npx create-react-app ikkaku --template typescript
+npx -p @storybook/cli sb init --type react_scripts
