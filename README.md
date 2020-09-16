@@ -1,13 +1,14 @@
+# いろいろなぐり書き
 - 環境を作るには?
-	- cd ikkaku
-	- yarn
+	- `cd ikkaku`
+	- `yarn (install)`
 	- でおっけい！
 - storybookを起動するには?
-	- yarn storybook
+	- `yarn storybook`
+- どうやって書けばいいの..!?
+	- 僕もわかんない
+	- ()[https://github.com/IrukNuj/ikkaku/tree/master/src] を参考に書いていきましょう
 
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
